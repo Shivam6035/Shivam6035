@@ -15,8 +15,6 @@ I am an adaptable technologist with hands-on experience in machine learning and 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivam6035&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shivam6035&limit=5&theme=dark&combine_all_yearly_contributions=true)
