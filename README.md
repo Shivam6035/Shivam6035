@@ -1,11 +1,3 @@
-## Hi there 👋
-
-<!--
-**Shivam6035/Shivam6035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 ✨
 V2 Available Now!Redesigned UI · More features · Faster performance
 Upgrade to V2 →
